@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://image.emojipng.com/980/127980.jpg" />
+# Здравствуй! <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" width="25px"/>
 
 ### Меня зовут Андрей и я JavaScript Developer!
 
