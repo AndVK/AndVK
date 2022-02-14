@@ -5,7 +5,7 @@
 **Мой технологический стек:**
 * HTML/CSS
 * JavaScript
-* React
+* React/Redux
 
 📫 Связаться со мной: [telegram:](@AndrewVLK)
 
