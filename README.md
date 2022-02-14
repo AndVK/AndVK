@@ -1,4 +1,13 @@
-### Hi there 👋
+# Здравствуй! <img src="https://image.emojipng.com/980/127980.jpg" />
+
+### Меня зовут Андрей и я JavaScript Developer!
+
+**Мой технологический стек:**
+* HTML/CSS
+* JavaScript
+* React
+
+📫 Связаться со мной: [telegram:](@AndrewVLK)
 
 <!--
 **AndVK/AndVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
