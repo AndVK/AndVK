@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif" width="25px"/>
+# Здравствуй! <img src="https://c0.klipartz.com/pngpicture/806/254/gratis-png-emoji-de-la-onda-que-agita-la-mano-ola-thumbnail.png" width="25px"/>
 
 ### Меня зовут Андрей и я JavaScript Developer!
 
