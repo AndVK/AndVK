@@ -1,4 +1,4 @@
-# Здравствуй! <img src="https://c0.klipartz.com/pngpicture/806/254/gratis-png-emoji-de-la-onda-que-agita-la-mano-ola-thumbnail.png" width="25px"/>
+# Здравствуй! 👋
 
 ### Меня зовут Андрей и я JavaScript Developer!
 
