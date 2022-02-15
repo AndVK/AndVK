@@ -11,7 +11,7 @@
 * Express
 * PostgreSQL
 
-📫 Связаться со мной: [telegram:](@AndrewVLK)
+📫 Связаться со мной в Telegram: @AndrewVLK
 
 <!--
 **AndVK/AndVK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
