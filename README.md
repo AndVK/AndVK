@@ -5,7 +5,11 @@
 **Мой технологический стек:**
 * HTML/CSS
 * JavaScript
-* React/Redux
+* React
+* Redux
+* Node.js
+* Express
+* PostgreSQL
 
 📫 Связаться со мной: [telegram:](@AndrewVLK)
 
