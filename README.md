@@ -3,7 +3,7 @@
 # My name is Andrew and I'm a JavaScript Developer!
 <img src='https://www.codewars.com/users/AndVK/badges/large'>
 
-### My Stack
+### My Stack:
 [![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 [![JavaScript](https://shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
