@@ -22,5 +22,3 @@
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/andrey-kitaev-432713233/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AndrewVLK)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://instagram.com/andvlk?r=nametag)
-
-![](https://visitor-badge.glitch.me/badge?page_id=compampa)
