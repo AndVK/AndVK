@@ -15,6 +15,7 @@
 [![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)](https://getbootstrap.com/)
 [![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)](https://www.figma.com/)
 [![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)](https://ant.design/)
+[![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)](https://webpack.js.org/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)](https://firebase.google.com/)
 [![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)](https://storybook.js.org/)
