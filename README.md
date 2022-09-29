@@ -17,6 +17,7 @@
 [![Ant Design](https://img.shields.io/static/v1?style=for-the-badge&message=Ant+Design&color=0170FE&logo=Ant+Design&logoColor=FFFFFF&label=)](https://ant.design/)
 [![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
 [![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)](https://firebase.google.com/)
+[![Storybook](https://img.shields.io/static/v1?style=for-the-badge&message=Storybook&color=FF4785&logo=Storybook&logoColor=FFFFFF&label=)](https://storybook.js.org/)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AndrewVLK)
