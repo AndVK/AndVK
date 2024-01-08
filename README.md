@@ -1,7 +1,6 @@
 # Hello! 👋
 
 # My name is Andrew and I'm a JavaScript Developer!
-<img src='https://www.codewars.com/users/AndVK/badges/large'>
 
 ### My Stack:
 [![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)](https://reactjs.org/)
